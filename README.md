@@ -36,7 +36,6 @@ Setup your python virtual environment (trivial but mandatory):
 ```
 
 ## Screenshot
-<img src="https://github.com/pseudo-r/Emoji-encrypter/blob/main/Screenshot/5.png?raw=true" width="500" />
 <img src="https://github.com/pseudo-r/Emoji-encrypter/blob/main/Screenshot/1.png?raw=true" width="500" />
 <img src="https://github.com/pseudo-r/Emoji-encrypter/blob/main/Screenshot/2.png?raw=true" width="500" />
 <img src="https://github.com/pseudo-r/Emoji-encrypter/blob/main/Screenshot/3.png?raw=true" width="500" />
